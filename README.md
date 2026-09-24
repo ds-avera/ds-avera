@@ -1,16 +1,41 @@
-## Hi there 👋
+# Hola, soy Abdiel 👋
 
-<!--
-**ds-avera/ds-avera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy desarrollador de software en **Delta Soluciones**, enfocado principalmente
+en desarrollo y mantenimiento de aplicaciones empresariales.
 
-Here are some ideas to get you started:
+Actualmente trabajo con:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- PHP y JavaScript
+- SQL Server
+- Git y GitHub
+- GitHub Actions / CI-CD
+- PowerShell
+- Aplicaciones web y sistemas empresariales
+
+## 🚀 Actualmente aprendiendo
+
+Estoy profundizando en:
+
+- Git a nivel interno y flujos de trabajo
+- Automatización con GitHub Actions
+- CI/CD
+- PowerShell
+- Docker
+- Arquitectura y modernización de aplicaciones
+
+## 🛠️ En qué trabajo
+
+Gran parte de mi trabajo está relacionado con:
+
+- Desarrollo de sistemas internos
+- Modernización de aplicaciones legacy
+- Automatización de despliegues
+- Integración de ambientes Desarrollo / Producción
+- APIs y servicios web
+- Bases de datos SQL Server
+- Mejora continua de procesos de desarrollo
+
+## 🌱 Mi objetivo
+
+Seguir evolucionando de desarrollo tradicional hacia prácticas modernas de
+DevOps, automatización, arquitectura y despliegue continuo.
