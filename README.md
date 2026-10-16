@@ -7,6 +7,7 @@ Actualmente trabajo con:
 
 - PHP y JavaScript
 - SQL Server
+- VB y C#
 - Git y GitHub
 - GitHub Actions / CI-CD
 - PowerShell
